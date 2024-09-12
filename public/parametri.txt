@@ -1,0 +1,6 @@
+parametri
+Radi pojednostavjenja lozinka je ista za sva tri korisnika: Franksinatra1915
+dok su korisnicka imena
+frankie_15 (kritičar)
+myers_49 (administrator)
+martin_44 (korisnik)

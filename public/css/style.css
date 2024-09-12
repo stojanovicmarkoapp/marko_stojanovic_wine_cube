@@ -1,0 +1,153 @@
+* {
+    font-family: 'Mukta', sans-serif;
+}
+:root {
+    --primary-color: #eccd13 !important;
+    --bg-lightgrey: transparent !important;
+    --bg-color: transparent !important;
+}
+.custom-select {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 4 5'%3E%3Cpath fill='%23eccd13' d='M2 0L0 2h4zm0 5L0 3h4z'/%3E%3C/svg%3E")
+}
+@font-face {
+    font-family: 'mr_dafoe_regular';
+    src: url('../fonts/mrdafoe-regular-webfont.woff2') format('woff2'),
+    url('../fonts/mrdafoe-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+.red_wine_color {
+    color: #88001b !important;
+}
+.red_wine_background_color{
+    background-color: #88001b !important;
+}
+.white_wine_background_color {
+    background-color: #eccd13 !important;
+}
+.white_wine_color {
+    color: #eccd13 !important;
+}
+.ice_color {
+    color: #bde5f2 !important;
+}
+.white_wine_border {
+    border: 1px solid #eccd13 !important;
+}
+.page-link {
+    background-color: #88001b !important;
+    color: #eccd13 !important;
+}
+.page-item.active .page-link {
+    background-color: #eccd13 !important;
+    color: #88001b !important;
+}
+.red_wine_border {
+     border: 1px solid #88001b !important;
+}
+.red_wine_border_left {
+    border-left: 1px solid #88001b !important;
+}
+.red_wine_border_bottom {
+    border-bottom: 1px solid #88001b !important;
+}
+.red_wine_border_right {
+    border-right: 1px solid #88001b !important;
+}
+.owl-dot>span {
+    background-color: #eccd13 !important;
+}
+.border_radius_left {
+    border-top-left-radius: 30px !important;
+    border-bottom-left-radius: 30px !important;
+}
+.border_radius_right {
+    border-top-right-radius: 30px !important;
+    border-bottom-right-radius: 30px !important;
+}
+.border_radius_50 {
+    border-radius: 50% !important;
+}
+.header_cleaner {
+    padding-top: 90px !important;
+}
+.width_50 {
+    width: 50px !important;
+}
+.height_50 {
+    height: 50px !important;
+}
+.width_25 {
+    width: 25px !important;
+}
+.height_50 {
+    height: 25px !important;
+}
+.frame_for_image {
+    height: 1100px;
+}
+.padding_5 {
+    padding: 5px !important;
+}
+.full {
+    height: 60px !important;
+}
+#sidebarCollapse {
+    background: #88001b !important;
+}
+#sidebarCollapse>i {
+    color: #eccd13 !important;
+}
+.display_inline_block {
+    display: inline-block !important;
+}
+.zoom {
+    transition: transform .5s ease;
+}
+.zoom:hover img {
+    transform: scale(1.5);
+}
+.margin_top_for_image {
+    margin-top: 200px;
+}
+h1 {
+    font-size: calc(1rem + 1.5vw);
+    letter-spacing: .5px;
+}
+.img_fluid {
+    max-width: 100%;
+    height: auto;
+}
+.overflow_hidden {
+    overflow: hidden !important;
+}
+#comment:focus {
+    outline: none !important;
+}
+.handwriting {
+    font-family: mr_dafoe_regular;
+}
+.z_index_minus_10 {
+    z-index: -10;
+}
+.z_index_plus_10 {
+    z-index: 10 !important;
+}
+.custom-control-input:checked~.custom-control-label::before {
+    background-color: #eccd13;
+}
+#pin {
+    background-image: url('../images/ice.png');
+    background-size: cover;
+    margin-left: -15px;
+}
+
+@media (max-width: 1199px) {
+    #sidebar {
+        min-width: 220px;
+        max-width: 220px;
+        text-align: left;
+        margin-left: 0px !important;
+    }
+}
+
